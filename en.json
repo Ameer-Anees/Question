@@ -1,0 +1,10 @@
+{
+  "welcome": "Welcome",
+  "about": "This is a multilingual website.",
+  "selectLanguage": "Select Language",
+  "email": "Enter Email",
+  "mobile": "Enter Mobile Number",
+  "otp": "Enter OTP",
+  "verify": "Verify OTP",
+  "languageChanged": "Language changed successfully"
+}

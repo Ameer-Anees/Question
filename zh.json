@@ -1,0 +1,10 @@
+{
+  "welcome": "欢迎",
+  "about": "这是一个多语言网站。",
+  "selectLanguage": "选择语言",
+  "email": "输入电子邮件",
+  "mobile": "输入手机号码",
+  "otp": "输入验证码",
+  "verify": "验证验证码",
+  "languageChanged": "语言切换成功"
+}
